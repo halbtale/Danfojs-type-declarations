@@ -1,5 +1,5 @@
 {
-  "name": "danfojs-type-declarations",
+  "name": "@types/danfojs",
   "version": "1.0.0",
   "description": "",
   "main": "/@types/index.d.ts",
