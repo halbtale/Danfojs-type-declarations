@@ -1,0 +1,15 @@
+{
+  "name": "danfojs-type-declarations",
+  "version": "1.0.0",
+  "description": "",
+  "main": "/@types/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nenino2/Danfojs-type-declarations.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nenino2/Danfojs-type-declarations/issues"
+  },
+  "homepage": "https://github.com/Nenino2/Danfojs-type-declarations#readme"
+}
