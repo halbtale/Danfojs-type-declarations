@@ -2,7 +2,7 @@
   "name": "@types/danfojs",
   "version": "1.0.0",
   "description": "",
-  "main": "/lib/index.d.ts",
+  "main": "/danfojs/index.d.ts",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Nenino2/Danfojs-type-declarations.git"

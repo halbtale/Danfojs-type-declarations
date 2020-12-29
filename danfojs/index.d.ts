@@ -9,5 +9,4 @@ declare module 'danfojs' {
     export { read_csv, read_json, read_excel, read } from "./io/reader";
     export { LabelEncoder, OneHotEncoder } from "./preprocessing/encodings";
     export { MinMaxScaler, StandardScaler } from "./preprocessing/scalers";
-
 }
