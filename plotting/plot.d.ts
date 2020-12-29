@@ -2,9 +2,9 @@
  * Plotting methods and Functions performed on Series and DataFrames
  */
 export class Plot {
-    constructor(ndframe: any, div: any);
-    div: any;
-    ndframe: any;
+    constructor(ndframe?: any, div?: any);
+    div?: any;
+    ndframe?: any;
     /**
      * Plot Series or DataFrame as lines. This function is useful to plot lines using DataFrame’s values as coordinates.
     * Make plots of Series or DataFrame.
@@ -59,8 +59,8 @@ export class Plot {
    * @param {Object} config configuration options for making Plots, supports Plotly parameters
     */
     table(config?: any): void;
-    __get_plot_params(config: any): (string[] | {
+    __get_plot_params(config?: any): (string[] | {
         layout: {};
     })[];
-    ____check_if_cols_exist(cols: any): any;
+    ____check_if_cols_exist(cols?: any): any;
 }

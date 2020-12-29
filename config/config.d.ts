@@ -7,14 +7,14 @@ export class Configs {
     dtype_test_lim: number;
     table_max_row: number;
     table_max_col_in_console: number;
-    set_width(val: any): void;
+    set_width(val?: any): void;
     get get_width(): number;
-    set_max_col_in_console(val: any): void;
+    set_max_col_in_console(val?: any): void;
     get get_max_col_in_console(): number;
-    set_row_num(val: any): void;
+    set_row_num(val?: any): void;
     get get_max_row(): number;
     get get_truncate(): number;
-    set_truncate(val: any): void;
+    set_truncate(val?: any): void;
     get get_dtype_test_lim(): number;
-    set_dtype_test_lim(val: any): void;
+    set_dtype_test_lim(val?: any): void;
 }

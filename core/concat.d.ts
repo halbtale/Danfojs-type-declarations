@@ -1,5 +1,5 @@
 export class Concat {
-    constructor(kwargs: any);
+    constructor(kwargs?: any);
 }
-export function concat(kwargs: any): DataFrame;
+export function concat(kwargs?: any): DataFrame;
 import { DataFrame } from "./frame";

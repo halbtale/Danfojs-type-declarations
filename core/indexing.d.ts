@@ -1,1 +1,1 @@
-export function indexLoc(ndframe: any, kwargs: any): any[];
+export function indexLoc(ndframe?: any, kwargs?: any): any[];
